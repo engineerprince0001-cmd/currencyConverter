@@ -22,6 +22,11 @@ const countryList = {
         currency:"pkr"
     },
 
+    Dubai:{
+        code:"AE",
+        currency:"aed"
+    },
+
 
     Japan: {
         code: "JP",
