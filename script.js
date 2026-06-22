@@ -17,6 +17,10 @@ const countryList = {
         code: "IN",
         currency: "inr"
     },
+    Pakistan:{
+        code: "PK",
+        currency:"pkr"
+    },
 
 
     Japan: {
